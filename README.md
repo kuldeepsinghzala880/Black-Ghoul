@@ -1,106 +1,128 @@
-<div dir="ltr" style="text-align: left;" trbidi="on">
-<h3 style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 0px !important;">
-Bʟᴀᴄᴋ━࿇ɢʜᴏᴜʟs━๖ۣۜAℝᴍy</h3>
-<div style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; margin-bottom: 16px;">
-ᴛʜᴇ ᴜsᴇʀʙᴏᴛ</div>
-<div style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; margin-bottom: 16px;">
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBLACK-GHOULS%2FBLACK-GHOULS&template=https%3A%2F%2Fgithub.com%2FBLACK-GHOULS%2FBLACK-GHOULS" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-<div dir="ltr" style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; margin-bottom: 0px !important;">
-<h1 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin: 24px 0px 16px; padding-bottom: 0.3em;">
-<a aria-hidden="true" class="anchor" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a>Bʟᴀᴄᴋ━࿇ɢʜᴏᴜʟs━๖ۣۜAℝᴍy</h1>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://telegra.ph/file/a255957ef156701eb5d42.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="500" height="500" src="https://telegra.ph/file/a255957ef156701eb5d42.jpg" width="500" /></a></div>
-<div>
-<br /></div>
-<div align="center" style="box-sizing: border-box;">
-</div>
-<div style="box-sizing: border-box;">
-<a href="https://www.python.org/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="forthebadge made-with-python" src="https://camo.githubusercontent.com/5392ad6fb7875a2520001270f08309896b6cb25d/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-<div style="box-sizing: border-box;">
-<h3 style="text-align: left;">
-Best User Bot To Manage Your Telegram Account</h3>
-</div>
-<h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
-The best UserBot With 350 + Plugins</h2>
-<h2 style="text-align: left;">
-ᴛʜᴇ ᴍᴏsᴛ ᴀᴡᴀɪᴛᴇᴅ ᴜsᴇʀʙᴏᴛ</h2>
-<h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
-We Are Not Responsible For Account Bans</h2>
-<h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
-<a aria-hidden="true" class="anchor" id="user-content-the-most-powerful-and-better-and-secure" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a href="https://github.com/jarvis210904/J.A.R.V.I.S-Userbot#most-powerful-and-better-and-secure" id="user-content-most-powerful-and-better-and-secure" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>Most PowerFul And Better And Secure</h2>
-FORK ON YOUR OWN RISK</h2>
-<h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
-<a aria-hidden="true" class="anchor" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a href="https://github.com/jarvis210904/J.A.R.V.I.S-Userbot#by-team-jarvis" id="user-content-by-team-jarvis" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>By Team #BLACK GHOULS™</h2>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">
-<a aria-hidden="true" class="anchor" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a href="https://github.com/jarvis210904/J.A.R.V.I.S-Userbot#credits--fridayuserbot" id="user-content-credits--fridayuserbot" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>Credits :&nbsp;</h3>
-<h3 style="text-align: left;">KARAM</h3>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">ZALA</h3>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">ZORO</h3>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">DEMON</h3>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">GODFATHER OP</h3>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">AARAV</h3>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">LEGEND</h3>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">
-<a aria-hidden="true" class="anchor" id="user-content-for-any-query-or-want-to-know-how-it-works-join-group-and-channel" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>For any query or want to know how it works join Group And Channel</h3>
-<div style="box-sizing: border-box;">
-<a href="https://t.me/blackghouls_supportgroup"><img src="https://camo.githubusercontent.com/e531cdc1dbdcb78f8ffe767875a6b6d33c43e2e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d2532304368616e6e656c2d7265642e7376673f6c6f676f3d54656c656772616d" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a><span id="goog_140558409"></span><a href="https://www.blogger.com/"></a><span id="goog_140558410"></span>&nbsp;<a href="https://t.me/blackghouls_channel"><img src="https://camo.githubusercontent.com/7b0a8bb8af0b2466dd1c38a6c1367ddee45ba266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d25323047726f75702d626c75652e7376673f6c6f676f3d74656c656772616d" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-<h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
-<a aria-hidden="true" class="anchor" id="user-content-installing-heroku" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a href="https://github.com/jarvis210904/J.A.R.V.I.S-Userbot#installing-heroku" id="user-content-installing-heroku" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>Installing Heroku</h2>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">
-<a aria-hidden="true" class="anchor" id="user-content-the-easy-way" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a href="https://github.com/jarvis210904/J.A.R.V.I.S-Userbot#the-easy-way" id="user-content-the-easy-way" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>The Easy Way</h3>
-<div style="box-sizing: border-box;">
-<a href="                                ; rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy To Heroku" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-<h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
-<a aria-hidden="true" class="anchor" id="user-content-get-string-session-from-repl-run" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a href="https://github.com/jarvis210904/J.A.R.V.I.S-Userbot#get-string-session-from-repl-run" id="user-content-get-string-session-from-repl-run" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>GET STRING SESSION FROM REPL RUN</h2>
-<div style="box-sizing: border-box;">
-<a href="https://repl.it/@ZALAKARAM/BLACKGHOULSARMY#main.py/"><img alt="Run on Repl.it" src="https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">
-<a aria-hidden="true" class="anchor" id="user-content-the-normal-way" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a id="user-content-the-normal-way" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>The Normal Way</h3>
-<div style="box-sizing: border-box;">
-Simply clone the repository and run the main file:</div>
-<div style="box-sizing: border-box;">
-<pre style="background-color: #f6f8fa; border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; line-height: 1.45; margin-bottom: 16px; overflow-wrap: normal; overflow: auto; padding: 16px;">git clone https://github.com/kuldeepsinghzala880/BLACK-GHOULS
-<span style="box-sizing: border-box;">cd</span> Userbot
+<p align="center"><a href="https://t.me/blackghouls_supportgroup"><img src="https://telegra.ph/file/a255957ef156701eb5d42.jpg"></a></p> 
+</p>
+<h1>𝐁𝐋𝐀𝐂𝐊-𝐆𝐇𝐎𝐔𝐋𝐒-𝐀𝐑𝐌𝐘</h1>
+<b>A Powerful, Smart And Simple Userbot In Telethon.</b>
+<br>
+<br>
+
+![Open Source Love svg1](https://github.com/kuldeepsinghzala880/BLACK-GHOULS)
+![GPLv3 license]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS#copyright--license)
+![Stars]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/stargazers)
+![Forks]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/network/members)
+![Issues Open]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/issues)
+![Issues Closed]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/issues?q=is:closed)
+![PR Open]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/pulls)
+![PR Closed]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/pulls?q=is:closed)
+!Repo Size
+<br>
+
+
+# Credits 
+## This is A Remix Bot Of Many UserBot.
+* DARKCOBRA
+* FridayUserBot
+* Javes 2.0
+* TeleBot
+* SAVAGEBOT
+
+
+
+# Support
+<a href="https://t.me/D3VIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/blackghouls_channel"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+## Total Commands = CMDS Are More Than 470 :D
+# About 𝔹𝕃𝔸ℂ𝕂-𝔾ℍ𝕆𝕌𝕃𝕊-𝔸ℝ𝕄𝕐
+
+1. Can Do Many This Such As Download ANy Video From Youtube and Other Sites
+
+2. Many Things For Adult Tho....
+
+3. Many Cool CMDS To Trick Your Friends
+
+4. Can Give Mast To Any Img Such As .Krish Mask,Gold Mask, ManyOther
+
+5. And More CMDS Just Deploy It 
+
+6. Can Spam Over 9999 Words And Can Spam Images And Medias
+
+7. Its Has Many Plugins To Trick Your Friends 
+
+8. Many  Animated Filters Plugins Like
+Rock
+Hello
+
+Heart
+
+Adults
+Filters Like `Sax` etc....
+
+9. Can Tell You About The Person when he/she Will Enter In Ur Grup That He Is Spammer And Will Ban him/her automatically
+
+10. Can Tell You Any State or COuntry Coivd Cases
+
+11. Can Give u Cricket Scores (Credits Given In Plugins)
+
+12. And If You Are Goinn To Sleep Do
+.night
+The Bot WIll Auto Reply Messages With A Good Night Message ( Some Thing Like Afk But Different)
+
+13. Afk Feature When You Are Goin Offline
+
+14. And If You Are Goinn For Study  Do
+.study
+The Bot WIll Auto Reply Messages With A Good Study Message ( Some Thing Like Afk But Different)
+
+15. And 5 types Of Hack CMDs
+
+16. And Many More CMDS 
+
+
+
+## Note-: 
+
+This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.......
+
+# Requirements 
+* Python 3.8 or Higher
+* Telegram API Keys
+* String Gernate from here
+
+
+# How To
+
+
+# Deploy
+
+![Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/kuldeepsinghzala880/BLACK-GHOULS)
+
+# String
+
+![Run on Repl.it](https://repl.it/@ZALAKARAM/BLACKGHOULSARMY#main.py/)
+
+# The Normal Way
+
+Simply clone the repository and run the main file:
+sh
+git clone https://github.com/kuldeepsinghzala880/BLACK-GHOULS.git
+cd Black GHOUlS ARMY 
 virtualenv -p /usr/bin/python3 venv
-<span style="box-sizing: border-box;">.</span> ./venv/bin/activate
+. ./venv/bin/activate
 pip install -r requirements.txt
-<span style="box-sizing: border-box;"><span style="box-sizing: border-box;">#</span> &lt;Create local_config.py with variables as given below&gt;</span>
-python3 -m userbot</pre>
-</div>
-<div style="box-sizing: border-box;">
-An example&nbsp;<code style="background-color: rgba(27, 31, 35, 0.05); border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; margin: 0px; padding: 0.2em 0.4em;">local_config.py</code>&nbsp;file could be:</div>
-<div style="box-sizing: border-box;">
-<span style="box-sizing: border-box;">Not All of the variables are mandatory</span></div>
-<div style="box-sizing: border-box;">
-<span style="box-sizing: border-box;">The Userbot should work by setting only the first two variables</span></div>
-<div style="box-sizing: border-box;">
-<pre style="background-color: #f6f8fa; border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; line-height: 1.45; margin-bottom: 16px; overflow-wrap: normal; overflow: auto; padding: 16px;"><span style="box-sizing: border-box;">from</span> <span style="box-sizing: border-box;">heroku_config</span> <span style="box-sizing: border-box;">import</span> <span style="box-sizing: border-box;">Var</span>
-<div style="box-sizing: border-box; margin-bottom: 16px;">
-<span style="box-sizing: border-box;">class</span> <span style="box-sizing: border-box;">Development</span>(<span style="box-sizing: border-box;">Var</span>):
-<span style="box-sizing: border-box;">APP_ID</span> <span style="box-sizing: border-box;">=</span> <span style="box-sizing: border-box;">6</span>
-<span style="box-sizing: border-box;">API_HASH</span> <span style="box-sizing: border-box;">=</span> <span style="box-sizing: border-box;">"eb06d4abfb49dc3eeb1aeb98ae0f581e"</span></div>
-</pre>
-<div style="box-sizing: border-box; margin-bottom: 16px;">
-</div>
-</div>
-<h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">
-<a aria-hidden="true" class="anchor" id="user-content-uniborg-configuration" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a id="user-content-uniborg-configuration" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>UniBorg Configuration</h3>
-<div style="box-sizing: border-box;">
-The UniBorg Config is situated in&nbsp;<code style="background-color: rgba(27, 31, 35, 0.05); border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; margin: 0px; padding: 0.2em 0.4em;">userbot/uniborgConfig.py</code>.</div>
-<div style="box-sizing: border-box;">
-<span style="box-sizing: border-box;">Heroku Configuration</span>&nbsp;Simply just leave the Config as it is.</div>
-<div style="box-sizing: border-box;">
-<span style="box-sizing: border-box;">Local Configuration</span>&nbsp;Fortunately there are no Mandatory vars for the UniBorg Support Config.</div>
-<h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
-<a aria-hidden="true" class="anchor" id="user-content-mandatory-vars" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a href="https://github.com/jarvis210904/J.A.R.V.I.S-Userbot#mandatory-vars" id="user-content-mandatory-vars" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>Mandatory Vars</h2>
-<ul style="box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; padding-left: 2em;">
-<li style="box-sizing: border-box;">Only two of the environment variables are mandatory.</li>
-<li style="box-sizing: border-box; margin-top: 0.25em;">This is because of&nbsp;<code style="background-color: rgba(27, 31, 35, 0.05); border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; margin: 0px; padding: 0.2em 0.4em;">telethon.errors.rpc_error_list.ApiIdPublishedFloodError</code><ul style="box-sizing: border-box; margin-bottom: 0px; margin-top: 0px; padding-left: 2em;">
-<li style="box-sizing: border-box;"><code style="background-color: rgba(27, 31, 35, 0.05); border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; margin: 0px; padding: 0.2em 0.4em;">APP_ID</code>: You can get this value from&nbsp;<a href="https://my.telegram.org/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;">https://my.telegram.org</a></li>
-<li style="box-sizing: border-box; margin-top: 0.25em;"><code style="background-color: rgba(27, 31, 35, 0.05); border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; margin: 0px; padding: 0.2em 0.4em;">API_HASH</code>: You can get this value from&nbsp;<a href="https://my.telegram.org/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;">https://my.telegram.org</a></li>
-</ul>
-</li>
-<li style="box-sizing: border-box; margin-top: 0.25em;">The userbot will not work without setting the mandatory vars.</li>
-</ul>
-</div>
-</div>
+# <Create local_config.py with variables as given below>
+python3 -m Black-Lightning
+
+
+
+
+
+# Mandatory Vars
+
+[+] Only two of the environment variables are mandatory.
+
+[+] This is because of telethon.errors.rpc_error_list.ApiIdPublishedFloodError
+
+    [-] APP_ID:   You can get this value from https://my.telegram.org
+    [-] API_HASH :   You can get this value from https://my.telegram.org
+    
+[+] The BLACK GHOULS ARMY Bot will not work without setting the mandatory vars.
