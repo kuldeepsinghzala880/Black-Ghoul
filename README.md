@@ -5,14 +5,14 @@
 <br>
 <br>
 
-![Open Source Love svg1](https://github.com/kuldeepsinghzala880/BLACK-GHOULS)
-![GPLv3 license]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS#copyright--license)
-![Stars]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/stargazers)
-![Forks]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/network/members)
-![Issues Open]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/issues)
-![Issues Closed]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/issues?q=is:closed)
-![PR Open]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/pulls)
-![PR Closed]( https://github.com/kuldeepsinghzala880/BLACK-GHOULS/pulls?q=is:closed)
+![Open Source Love svg1](https://github.com/kuldeepsinghzala880/Black-Ghoul)
+![GPLv3 license]( https://github.com/kuldeepsinghzala880/Black-Ghoul#copyright--license)
+![Stars]( https://github.com/kuldeepsinghzala880/Black-Ghoul/stargazers)
+![Forks]( https://github.com/kuldeepsinghzala880/Black-Ghoul/network/members)
+![Issues Open]( https://github.com/kuldeepsinghzala880/Black-Ghoul/issues)
+![Issues Closed]( https://github.com/kuldeepsinghzala880/Black-Ghoul/issues?q=is:closed)
+![PR Open]( https://github.com/kuldeepsinghzala880/Black-Ghoul/pulls)
+![PR Closed]( https://github.com/kuldeepsinghzala880/Black-Ghoul/pulls?q=is:closed)
 !Repo Size
 <br>
 
@@ -22,7 +22,7 @@
 * DARKCOBRA
 * FridayUserBot
 * Javes 2.0
-* TeleBot
+* D3VILBOT
 * SAVAGEBOT
 
 
@@ -94,7 +94,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # Deploy
 
-![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/kuldeepsinghzala880/BLACK-GHOULS)
+![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/kuldeepsinghzala880/Black-Ghoul)
 
 
 # String
@@ -105,7 +105,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 Simply clone the repository and run the main file:
 sh
-git clone https://github.com/kuldeepsinghzala880/BLACK-GHOULS.git
+git clone https://github.com/kuldeepsinghzala880/Black-Ghoul.git
 cd Black GHOUlS ARMY 
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
