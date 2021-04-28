@@ -1,4 +1,5 @@
-
-build: 
+build:
   docker:
-      black-ghouls: Dockerfile
+    web: Dockerfile
+run:
+  web:https://github.com/kuldeepsinghzala880/Black-Ghoul
